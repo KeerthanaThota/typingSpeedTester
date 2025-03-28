@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/typingSpeedTester/static/css/main.7af2e823.css",
+    "main.js": "/typingSpeedTester/static/js/main.ef595f76.js",
+    "static/js/453.0dcaf961.chunk.js": "/typingSpeedTester/static/js/453.0dcaf961.chunk.js",
+    "index.html": "/typingSpeedTester/index.html",
+    "main.7af2e823.css.map": "/typingSpeedTester/static/css/main.7af2e823.css.map",
+    "main.ef595f76.js.map": "/typingSpeedTester/static/js/main.ef595f76.js.map",
+    "453.0dcaf961.chunk.js.map": "/typingSpeedTester/static/js/453.0dcaf961.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af2e823.css",
+    "static/js/main.ef595f76.js"
+  ]
+}
